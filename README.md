@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e6ef1,100:43cea2&height=200&section=header&text=Yong%20Je%20Park&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e6ef1,100:43cea2&height=280&section=header&text=Yong%20Je%20Park&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=62&descSize=20)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dydwp)
 
@@ -17,33 +17,37 @@ Spring Boot 기반 웹 서비스 구축과 Python 기반 데이터 수집·분�
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 
 **Backend**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Spring Security](https://img.shields.io/badge/Spring_Security-000000?style=flat-square&logo=springsecurity&logoColor=6DB33F)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-000000?style=flat-square&logo=thymeleaf&logoColor=005F0F)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Spring Security](https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=springsecurity&logoColor=6DB33F)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-000000?style=for-the-badge&logo=thymeleaf&logoColor=005F0F)
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
-![JPA](https://img.shields.io/badge/JPA-000000?style=flat-square&logo=hibernate&logoColor=59666C)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![JPA](https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=hibernate&logoColor=59666C)
 
 **Data Collection & Analysis**
 
-![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat-square&logo=selenium&logoColor=43B02A)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=000000&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=000000&labelColor=000000)
+
+</div>
 
 ---
 
@@ -98,11 +102,3 @@ Spring Boot 기반 웹 서비스 구축과 Python 기반 데이터 수집·분�
 - Jupyter Notebook을 활용한 지역별 현황 비교 분석
 
 📌 프로젝트 링크: [school-zone-analysis](https://github.com/dydwp/school-zone-analysis)
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dydwp&color=6e6ef1&style=flat-square&label=visitors)
-
-</div>
