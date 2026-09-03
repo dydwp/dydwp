@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e6ef1,100:43cea2&height=280&section=header&text=Yong%20Je%20Park&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=62&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e6ef1,100:43cea2&height=250&section=header&text=Yong%20Je%20Park&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Backend%20Developer%20%C2%B7%20Java%20%26%20Spring%20Boot&descAlignY=62&descSize=20)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dydwp)
 
