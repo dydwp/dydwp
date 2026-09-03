@@ -28,7 +28,7 @@
 
 <table>
   <tr>
-    <td width="140" align="center">🏋️</td>
+    <td width="80" align="center" valign="middle"><span style="font-size: 40px;">🏋️</span></td>
     <td>
       <b><a href="https://github.com/dydwp/easy-fit">EasyFit</a></b> — 개인 맞춤형 운동 관리 웹 서비스<br/>
       <sub>원하는 운동 부위를 한눈에 파악하기 어렵고 초보자는 운동 방법을 알기 어렵다는 문제에서 출발해, 캘린더와 메모로 운동 기록을 관리할 수 있게 만든 개인 프로젝트</sub><br/><br/>
@@ -47,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">🏟</td>
+    <td width="80" align="center" valign="middle"><span style="font-size: 40px;">🏟</span></td>
     <td>
       <b><a href="https://github.com/dydwp/sports-crawling-project">sports-crawling-project</a></b> — 서울시 체육시설 공공서비스예약 데이터 크롤링<br/>
       <sub>공공서비스예약 사이트를 Selenium으로 동적 크롤링하여 MySQL에 적재하는 데이터 수집 프로젝트</sub><br/><br/>
@@ -63,7 +63,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">🏫</td>
+    <td width="80" align="center" valign="middle"><span style="font-size: 40px;">🏫</span></td>
     <td>
       <b><a href="https://github.com/dydwp/school-zone-analysis">school-zone-analysis</a></b> — School Zone 지정 현황 데이터 분석<br/>
       <sub>전국 시·도별 School Zone(어린이보호구역) 지정 현황 데이터를 분석한 프로젝트</sub><br/><br/>
